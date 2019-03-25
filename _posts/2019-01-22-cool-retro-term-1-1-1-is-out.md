@@ -6,7 +6,7 @@ date: 2019/01/22 20:34:33
 mood: happy
 ---
 
-![release_screenshot2](https://swordfishslabs.files.wordpress.com/2019/01/release_screenshot2.png)
+![release_screenshot2](/assets/images/2019-01-22-cool-retro-term-1-1-1-is-out-screen.jpg)
 
 Hi fellow readers,
 

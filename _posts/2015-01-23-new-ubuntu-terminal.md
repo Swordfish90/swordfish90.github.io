@@ -11,7 +11,7 @@ mood: happy
 <!-- ![Screen](https://swordfishslabs.files.wordpress.com/2015/01/terminal-final.png) .element height="5%" width="5%" -->
 <!-- ![test image size](https://swordfishslabs.files.wordpress.com/2015/01/terminal-final.png){:height="50%" width="50%"} -->
 
-![](https://swordfishslabs.files.wordpress.com/2015/01/terminal-final.png){:.some-css-class style="width: 50%"}
+![](assets/images/2015-01-23-new-ubuntu-terminal-screen.jpg){:.some-css-class style="width: 50%"}
 
 Just a short announcement today: the new reboot version of Ubuntu Terminal App has finally landed as default!
 

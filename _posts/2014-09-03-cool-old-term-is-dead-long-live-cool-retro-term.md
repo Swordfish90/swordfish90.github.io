@@ -6,7 +6,7 @@ date: 2014/09/03 23:04:12
 mood: happy
 ---
 
-![Screenshot from 2014-09-03 22:46:48](http://swordfishslabs.files.wordpress.com/2014/09/screenshot-from-2014-09-03-224648.png)
+![Screenshot](/assets/images/2014-09-03-cool-old-term-is-dead-long-live-cool-retro-term-screen.jpg)
 
 
 What?!... No, don't be alarmed; cool-old-term has just changed name in cool-retro-term.

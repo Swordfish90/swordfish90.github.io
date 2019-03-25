@@ -8,6 +8,8 @@ mood: happy
 
 <!-- https://swordfishslabs.wordpress.com/2015/01/24/cool-retro-term-v1-0-0-is-out/ -->
 
+![Screenshot](/assets/images/2015-01-24-cool-retro-term-v1-0-0-is-out-out.jpg)
+
 The v1.0.0 of CRT is finally among us. The 43 commits landed after RC1 brought big performance improvements and fixes.
 
 * Improved font upscaling with much better performances
@@ -19,11 +21,9 @@ The v1.0.0 of CRT is finally among us. The 43 commits landed after RC1 brought b
 * [OSX] Fix ALT key behaviour
 * Many other small fixes/improvements/cleanups
 
-![Screenshot](https://i.imgur.com/12EqlpL.png)
+Thanks to some great guys CRT is already packaged for many Linux distributions; you can follow the procedure at [https://github.com/Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) to download and install it.
 
-Thanks to some great guys CRT is already packaged for many Linux distributions; you can follow the procedure at https://github.com/Swordfish90/cool-retro-term to download and install it.
-
-OSX users can grab the dmg from the releases page: https://github.com/Swordfish90/cool-retro-term/releases
+OSX users can grab the dmg from the releases page: [https://github.com/Swordfish90/cool-retro-term/releases](https://github.com/Swordfish90/cool-retro-term/releases)
 
 Huge thanks to the community folks who helped shape this program with their patches, donations, comments and ideas. I just can’t describe how awesome you have been.
 
