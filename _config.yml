@@ -6,7 +6,7 @@ description: This website is still a work in progress.
 avatar: /assets/avatar.jpg
 favicon: /favicon.ico
 twitter_handler: your_handler
-analytics_code: UA-XXXXXXX-2
+analytics_code: UA-137354863-1
 disqus: your_disqus_site
 
 # Social Accounts
@@ -42,7 +42,7 @@ show_categories: 1
 show_tags: 1
 show_email: 1
 show_rss: 1
-show_comments: 1
+show_comments: 0
 show_menu: 1
 fixed_sidebar: 1
 
@@ -67,7 +67,7 @@ permalink: /:categories/:title.html
 category_dir: categories
 
 # Pagination
-paginate: 10
+paginate: 5
 paginate_path: "/page:num/"
 
 # Conversion
