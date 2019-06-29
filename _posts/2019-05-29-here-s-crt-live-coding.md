@@ -2,6 +2,7 @@
 title: Here's crt-live-coding!
 layout: post
 date: 2019/06/29 10:30:00
+image: https://img.youtube.com/vi/_8ITuKIi_Is/maxresdefault.jpg
 mood: happy
 ---
 
