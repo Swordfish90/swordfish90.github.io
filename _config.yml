@@ -2,7 +2,7 @@
 name: Filippo Scognamiglio
 job_title: Android Software Engineer
 email: flscogna@gmail.com
-description: This website is still a work in progress.
+description: cat /dev/urandom | tr -dc 'a-z A-Z'
 avatar: /assets/avatar.jpg
 favicon: /favicon.ico
 twitter_handler: your_handler
@@ -15,7 +15,7 @@ social_networks:
 -  { name: twitter, url: '' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
--  { name: linkedin, url: '' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/filipposcognamiglio90/' }
 -  { name: skype, url: '' }
 -  { name: github, url: 'https://github.com/Swordfish90' }
 -  { name: codepen, url: '' }
