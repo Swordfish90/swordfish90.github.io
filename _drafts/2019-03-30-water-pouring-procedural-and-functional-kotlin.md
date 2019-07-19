@@ -208,9 +208,9 @@ private fun extendWithMoves(path: Path, explored: Set<State>): List<Path> {
 ## Conclusions
 
 Let's try to highlight the takeaways of this short post:
-* Both solutions work
+* Both implementations worked on the given test cases
 * The procedural implementation was 2-3 times faster on the same input
 * The functional implementation was more concise and arguably cleaner
-* The functional implementation could be optimize to take advantages of multicores
+* The functional implementation could be easily optimized to take advantage of multiple cores
 
-You can check the full source code at: ???
+It's often not easy to find out which is the best approach, and functional programming is not the silver bullet of coding. The good news is you don't need a silver bullet (unless you need to defeat an ancient, shapeshifting, clown looking creature); we have to luxury to use a multiparadigm programming language, so you can easily pick the right tool for the job.
