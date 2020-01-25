@@ -8,8 +8,7 @@ mood: happy
 
 This year brought the first stable release of my new pet project: Libretro Emulator for Android, or in short... **Lemuroid**!
 
-![screen1](/assets/images/2020-01-25-welcome-lemuroid-screen1.jpg)![screen2](/assets/images/2020-01-25-welcome-lemuroid-screen2.jpg)
-
+<img src="/assets/images/2020-01-25-welcome-lemuroid-screen1.jpg" width="50%"/> <img src="/assets/images/2020-01-25-welcome-lemuroid-screen1.jpg" width="50%"/>
 
 It’s a very simple to use, nice looking, native, Android application which leverages Libretro to emulate all your favourite consoles:
 
