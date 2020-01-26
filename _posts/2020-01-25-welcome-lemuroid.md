@@ -8,9 +8,9 @@ mood: happy
 
 This year brought the first stable release of my new pet project: Libretro Emulator for Android, or in short... **Lemuroid**!
 
-![screens](assets/images/2020-01-25-welcome-lemuroid-screens.jpg)
+<iframe width="640" height="380" src="https://www.youtube.com/embed/zMe8WhtKPG0" frameborder="0" allowfullscreen></iframe>
 
-It’s a very simple to use, nice looking, native, Android application which leverages Libretro to emulate all your favourite consoles:
+It’s a very simple to use, nice looking, native, Android friendly application which leverages Libretro to emulate all your favourite consoles:
 
 * Nintendo (NES)
 * Super Nintendo (SNES)
