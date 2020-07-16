@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "https://swordfish90.github.io/"
+url: "https://swordfish90.github.io"
 baseurl: ""
 
 # Includes
