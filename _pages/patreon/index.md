@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Patreon"
-permalink: "/portfolio/"
+permalink: "/patreon/"
 ---
 
 <figure>
